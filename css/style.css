@@ -109,7 +109,7 @@ span
 }
 @media screen and (max-width:930px) {
     nav .navbar{
-        display: initial;
+        display: block;
     }
     .click{
         top: 46px;
